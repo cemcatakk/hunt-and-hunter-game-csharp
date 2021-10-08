@@ -1,0 +1,10 @@
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.csprojAssemblyReference.cache
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.Form1.resources
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.Properties.Resources.resources
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.csproj.GenerateResource.cache
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\bin\Debug\Av_Oyunu.exe.config
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\bin\Debug\Av_Oyunu.exe
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\bin\Debug\Av_Oyunu.pdb
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.exe
+C:\Users\Cem\source\repos\Av_Oyunu\Av_Oyunu\obj\Debug\Av_Oyunu.pdb
